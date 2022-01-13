@@ -14,7 +14,7 @@
 
 __Csscade__ est une communauté francophone de passionné·e·s d'intégration web créée fin 2021.
 
-Nous partageons techniques, astuces et bonnes pratiques en HTML, CSS, accessibilité, eco-conception, clean code, ...
+Nous partageons techniques, astuces et bonnes pratiques en HTML, CSS, accessibilité, éco-conception, clean code, ...
 
 Nous créons des meetups, interviews, articles, configurations et outils open source.
 
@@ -45,7 +45,7 @@ Nos objectifs sont multiples :
 
 __Pour les membres :__ fournir un lieu d'échange, d'entraide et de veille, autour des techniques et technologies de l'intégration web.
 
-__Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, CSS, accessibilité, eco-conception, clean code, ...
+__Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, CSS, accessibilité, éco-conception, clean code, ...
 à l'aide de meetups, interviews, articles, configurations et outils open source.
 
 # Critères d'entrée
