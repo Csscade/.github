@@ -56,7 +56,7 @@ __Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, C
 
 Les personnes désirant rejoindre l’association en tant que sympathisant·e doivent en faire la demande par [email](mailto:hello@csscade.fr)
 
-Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e pu plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr) et remplir un bulletin d’adhésion.
+Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e pu plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
 
 Pour faire partie de l'association en tant que membre actif·ve et rejoindre le serveur Discord, il faut :
 * être parrainé·e et présenté·e aux membres actif·ve·s de l’association
