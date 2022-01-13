@@ -24,10 +24,10 @@ Nous créons des meetups, interviews, articles, configurations et outils open so
 
 - [Valeurs](#valeurs)
 - [Objectifs](#objectifs)
-- [Critères d'entrée](#crit%C3%A8res-dentr%C3%A9e)
+- [Critères d'entrée](#critères-dentrée)
 - [Code de conduite](#code-de-conduite)
   - [Radiations](#radiations)
-  - [Règles spécifiques à Discord](#r%C3%A8gles-sp%C3%A9cifiques-%C3%A0-discord)
+  - [Règles spécifiques à Discord](#règles-spécifiques-à-discord)
 - [Contribution](#contribution)
 - [Rejoindre le serveur Discord](#rejoindre-le-serveur-discord)
 
@@ -54,14 +54,14 @@ __Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, C
 * avoir un peu d'expérience (professionnelle ou non) dans les métiers se rapportant à l'intégration web (design, développement, ergonomie, devops, ...)
 * avoir lu et accepter entièrement le code de conduite
 
-Les personnes désirant rejoindre l’association en tant que sympathisant·e doivent en faire la demande par [email](mailto:hello@csscade.fr).
+Les personnes désirant rejoindre l'association en tant que sympathisant·e doivent en faire la demande par [email](mailto:hello@csscade.fr).
 
 Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e pu plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
 
 Pour faire partie de l'association en tant que membre actif·ve et rejoindre le serveur Discord, il faut :
-* être parrainé·e et présenté·e aux membres actif·ve·s de l’association
+* être parrainé·e et présenté·e aux membres actif·ve·s de l'association
 * avoir rencontré les membres fondateurs et/ou du bureau et être agréé·e par ces derniers
-* remplir un bulletin d’adhésion
+* remplir un bulletin d'adhésion
 
 # Code de conduite
 
@@ -76,18 +76,18 @@ Sous peine de [radiations](#radiations).
 
 ## Radiations
 
-Les recours pour radiations sont la mise en place d’une médiation avec une personne membre du bureau, suivi d’un entretien, avec au moins une personne du bureau, où le membre pourra se défendre.
+Les recours pour radiations sont la mise en place d'une médiation avec une personne membre du bureau, suivi d'un entretien, avec au moins une personne du bureau, où le membre pourra se défendre.
 
 ⛔ __Les motifs graves__
 
-* La divulgation de données personnelles concernant tout membre de l’association à des tiers
+* La divulgation de données personnelles concernant tout membre de l'association à des tiers
 * Les propos et comportements discriminants (racistes, sexistes, classistes, grossophobes, validistes, âgistes, psychophobes, et relatifs à toute autre oppression systémique)
-* Le non-respect voire tentatives d’intimidation ou de malveillance envers des membres et sympathisants
-* Le sabotage ou la destruction de données internes à l’association
-* La violation de droits d’auteur
-* Tout acte illégal commis en toute conscience de cet état de fait au sein de l’association
-* Utilisation de l’association pour obtenir du profit personnel (argent)
-* Volonté avérée de nuire à l’association, ses membres ou son fonctionnement
+* Le non-respect voire tentatives d'intimidation ou de malveillance envers des membres et sympathisants
+* Le sabotage ou la destruction de données internes à l'association
+* La violation de droits d'auteur
+* Tout acte illégal commis en toute conscience de cet état de fait au sein de l'association
+* Utilisation de l'association pour obtenir du profit personnel (argent)
+* Volonté avérée de nuire à l'association, ses membres ou son fonctionnement
 
 ⚠️ __Les motifs importants__
 
