@@ -52,11 +52,11 @@ __Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, C
 
 * avoir des [valeurs](#valeurs) communes avec celles de la communauté
 * avoir un peu d'expérience (professionnelle ou non) dans les métiers se rapportant à l'intégration web (design, développement, ergonomie, devops, ...)
-* avoir lu et accepter entièrement le code de conduite
+* avoir lu et accepté entièrement le code de conduite
 
 Les personnes désirant rejoindre l'association en tant que sympathisant·e doivent en faire la demande par [email](mailto:hello@csscade.fr).
 
-Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e pu plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
+Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e ou plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
 
 Pour faire partie de l'association en tant que membre actif·ve et rejoindre le serveur Discord, il faut :
 * être parrainé·e et présenté·e aux membres actif·ve·s de l'association
@@ -67,7 +67,7 @@ Pour faire partie de l'association en tant que membre actif·ve et rejoindre le 
 
 En tant que membre de cette communauté, vous devez le respect à chaque personne présente.
 
-Cela inclue :
+Cela inclut :
 
 * Le respect des connaissances et choix technologiques
 * Le respect des [valeurs](#valeurs) et règles de la communauté 
