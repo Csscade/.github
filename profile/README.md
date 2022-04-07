@@ -2,6 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=19m-4iufB04Sr6jqduUOggNMVa-_VJ1mM" width="250">  
 </p>
 
+[![Medium](https://img.shields.io/badge/@csscade-000000.svg?logo=medium&logoColor=ffffff)](https://csscade.medium.com/)
 [![Website](https://img.shields.io/badge/https://csscade.fr-59B7D4.svg)](https://csscade.fr)
 [![LinkedIn](https://img.shields.io/badge/@csscade-1F74B3.svg?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/company/csscade/)
 [![Twitter](https://img.shields.io/badge/@csscade-2EA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/csscade)
@@ -29,17 +30,16 @@ Nous créons des meetups, interviews, articles, configurations et outils open so
   - [Radiations](#radiations)
   - [Règles spécifiques à Discord](#règles-spécifiques-à-discord)
 - [Contribution](#contribution)
-- [Rejoindre le serveur Discord](#rejoindre-le-serveur-discord)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Valeurs
+## Valeurs
 
 Nous sommes là pour aider à construire une communauté avec des valeurs comme l'inclusivité, l'accessibilité et la pédagogie.
 
 Dans nos échanges et nos façons de travailler, nous prônons, en tant que groupe, le respect, la bienveillance, le droit à l'échec, le partage, l'amélioration continue.
 
-# Objectifs
+## Objectifs
 
 Nos objectifs sont multiples :
 
@@ -48,7 +48,7 @@ __Pour les membres :__ fournir un lieu d'échange, d'entraide et de veille, auto
 __Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, CSS, accessibilité, éco-conception, clean code, ...
 à l'aide de meetups, interviews, articles, configurations et outils open source.
 
-# Critères d'entrée
+## Critères d'entrée
 
 * avoir des [valeurs](#valeurs) communes avec celles de la communauté
 * avoir un peu d'expérience (professionnelle ou non) dans les métiers se rapportant à l'intégration web (design, développement, ergonomie, devops, ...)
@@ -56,14 +56,14 @@ __Pour le public :__ partager techniques, astuces et bonnes pratiques en HTML, C
 
 Les personnes désirant rejoindre l'association en tant que sympathisant·e doivent en faire la demande par [email](mailto:hello@csscade.fr).
 
-Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e pu plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
+Les personnes désirant contribuer à un article ou meetup doivent être en contact avec un·e ou plusieurs membres de l'association et/ou en faire la demande par [email](mailto:hello@csscade.fr).
 
 Pour faire partie de l'association en tant que membre actif·ve et rejoindre le serveur Discord, il faut :
 * être parrainé·e et présenté·e aux membres actif·ve·s de l'association
-* avoir rencontré les membres fondateurs et/ou du bureau et être agréé·e par ces derniers
+* avoir rencontré les membres fondateur·ice·s et/ou du bureau et être agréé·e par ces derniers
 * remplir un bulletin d'adhésion
 
-# Code de conduite
+## Code de conduite
 
 En tant que membre de cette communauté, vous devez le respect à chaque personne présente.
 
@@ -74,9 +74,9 @@ Cela inclue :
 
 Sous peine de [radiations](#radiations).
 
-## Radiations
+### Radiations
 
-Les recours pour radiations sont la mise en place d'une médiation avec une personne membre du bureau, suivi d'un entretien, avec au moins une personne du bureau, où le membre pourra se défendre.
+Les recours pour radiations sont la mise en place d'une médiation avec une personne membre du bureau, suivi d'un entretien, avec au moins une personne du bureau, où le·a membre pourra se défendre.
 
 ⛔ __Les motifs graves__
 
@@ -93,21 +93,25 @@ Les recours pour radiations sont la mise en place d'une médiation avec une pers
 
 * Tout silence prolongé malgré relances depuis 3 mois
 
-## Règles spécifiques à Discord
+### Règles spécifiques à Discord
 
 ![Discord](https://img.shields.io/badge/@csscade-5865F2.svg?logo=discord&logoColor=ffffff)
 
-Attention de ne pas flooder les salons de messages, notamment ceux à caractère personnel. Un salon `#chill` (texte et vocal) est à votre disposition pour discuter librement.
+📏 A l'arrivée sur le serveur, il faut prendre connaissance des règles de ce code de conduite dans `#règles`.
+Toutes les annonces importantes du bureau sont dans le salon `#annonces`.
 
-# Contribution
+🗣️ Attention de ne pas flooder les salons de messages, notamment ceux à caractère personnel.
+Le salon `#général` (texte et vocal) est à votre disposition pour discuter librement.
 
-✋ Tout membre de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation GitHub ou du serveur Discord lui-même.
+📝 Un salon `#comment-contribuer` explique tout ce qu'il faut faire pour proposer un article ou toute contribution à la communauté.
 
-📝 Les articles postés dans notre newsletter et nos articles doivent être relus et validés par d'autres membres de la communauté avant d'être postés.
+💡 Vous pouvez également proposer des idées pour la communauté dans le salon `#boite-à-idées`
 
-# Rejoindre le serveur Discord
+🆘 Si vous avez besoin d'aide en intégration web et javascript, un salon `#entraide` est là spécifiquement pour cela.
 
-À votre arrivée dans le serveur, merci de bien vouloir écrire un petit texte dans le salon `#presentation`. 
+__En tant que membre actif·ve__
+
+À votre arrivée dans le serveur, merci de bien vouloir écrire un petit texte dans le salon `#présentations`. 
 
 Voici des exemples d'informations pour mieux vous connaître :
 
@@ -117,3 +121,9 @@ Voici des exemples d'informations pour mieux vous connaître :
 * Vos passions
 * Vos moyens de contact et réseaux sociaux (Email, Github, LinkedIn, ...)
 * Comment avez-vous découvert la communauté ?
+
+## Contribution
+
+✋ Tout membre actif·ve de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation GitHub ou du serveur Discord lui-même.
+
+📝 Les articles postés doivent être relus et validés par d'autres membres de la communauté avant d'être postés.
