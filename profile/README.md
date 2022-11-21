@@ -95,7 +95,7 @@ Les recours pour radiations sont la mise en place d'une médiation avec une pers
 
 ### Règles spécifiques à Discord
 
-![Discord](https://img.shields.io/badge/@csscade-5865F2.svg?logo=discord&logoColor=ffffff)
+[![Discord](https://img.shields.io/badge/@csscade-5865F2.svg?logo=discord&logoColor=ffffff)](https://discord.com/invite/nEEzhGVphQ)
 
 📏 A l'arrivée sur le serveur, il faut prendre connaissance des règles de ce code de conduite dans `#règles`.
 Toutes les annonces importantes du bureau sont dans le salon `#annonces`.
